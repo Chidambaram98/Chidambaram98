@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chidambaram98
-- 👀 I’m interested in Front End Developer
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in Java Full stact web development.
+- 🌱 I’m currently learning Spring Boot.
 
 
 <!---
